@@ -138,4 +138,4 @@ The gen_poem function generates a poem given a starting word. It loads the train
 
 ### 4. Poems
 ---
-<img src="./generated_poems.png" width=650>
+For details, please refer to "./tangshi_for_pytorch/main. py". You can run it on your own to obtain the results<img src="./generated_poems.png" width=650>
